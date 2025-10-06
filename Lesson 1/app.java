@@ -22,3 +22,4 @@ public class app {
 // in terminal, say javac app.java then java app
 // cd Lesson\ 1/ -- type this in to change directory to lesson 1 (bc at beginning
 // you will be in Java-Training Directory (big folder), not lesson 1 (folder inside it))
+// git add . = prepare to save
