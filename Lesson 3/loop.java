@@ -31,6 +31,7 @@ public class loop {
         for (int number : numbers) {
             total += number; // total = total + number
         }
+        System.out.println(total);
     
        // while (userGuess != numberToguess) {
         //    System.out.println("Hello,")
