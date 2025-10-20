@@ -10,6 +10,7 @@ public class assign2 {
         // || means or
         if (userNumbers < 1 || userNumbers > 100) {
             System.out.println("error");
+            scanner.close();
         } else {
             for (int i = 0; i < userNumbers; i++) {
             System.out.println("What do you want number " + (i + 1) + " to be?:");
